@@ -1,0 +1,314 @@
+MPX,Microsoft Project for Windows,4.0,ANSI
+10,$,1,2,",",.
+11,2,0,1,8.00,40.00,$0.00/h,$0.00/h,1,1
+12,1,0,480,/,:,am,pm,20,20
+20,Standard,0,1,1,1,1,1,0
+25,1
+25,2,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,3,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,4,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,5,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,6,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,7
+20,Night Shift,0,1,1,1,1,1,1
+25,1
+25,2,11:00 pm,12:00 am
+25,3,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,4,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,5,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,6,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,7,12:00 am,03:00 am,04:00 am,08:00 am
+20,EstÃ¡ndar,0,1,1,1,1,1,0
+25,1
+25,2,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,3,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,4,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,5,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,6,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,7
+20,24 horas,1,1,1,1,1,1,1
+25,1,12:00 am,12:00 am
+25,2,12:00 am,12:00 am
+25,3,12:00 am,12:00 am
+25,4,12:00 am,12:00 am
+25,5,12:00 am,12:00 am
+25,6,12:00 am,12:00 am
+25,7,12:00 am,12:00 am
+20,Turno de noche,0,1,1,1,1,1,1
+25,1
+25,2,11:00 pm,12:00 am
+25,3,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,4,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,5,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,6,12:00 am,03:00 am,04:00 am,08:00 am,11:00 pm,12:00 am
+25,7,12:00 am,03:00 am,04:00 am,08:00 am
+20,Standard1,0,1,1,1,1,1,0
+25,1
+25,2,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,3,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,4,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,5,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,6,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,7
+30,Software Development Plan,,,Standard,27/04/2023,07/09/2023,0,27/04/2023,,$0.00,$0.00,$0.00,0d,0d,0d,0%,0h,0h,0h,0%
+40,Name,Initials,Work,Remaining Work,Work Variance,ID,Max Units,Standard Rate,Overtime Rate,Cost Per Use,Accrue At,Peak,Unique ID
+41,1,2,20,23,25,40,41,42,43,44,45,47,49
+50,Management,M,44h,44h,2640000d,1,1,$0.00/h,$0.00/h,$0.00,Prorated,0,1
+55,Standard,2,2,2,2,2,2,2
+50,Project Manager,P,92h,92h,5520000d,2,1,$0.00/h,$0.00/h,$0.00,Prorated,0,2
+55,Standard,2,2,2,2,2,2,2
+50,Analyst,A,164h,164h,9840000d,3,1,$0.00/h,$0.00/h,$0.00,Prorated,0,3
+55,Standard,2,2,2,2,2,2,2
+50,Developer,D,264h,264h,15840000d,4,1,$0.00/h,$0.00/h,$0.00,Prorated,0,4
+55,Standard,2,2,2,2,2,2,2
+50,Testers,T,280h,280h,16800000d,5,1,$0.00/h,$0.00/h,$0.00,Prorated,0,5
+55,Standard,2,2,2,2,2,2,2
+50,Trainers,T,256h,256h,15360000d,6,1,$0.00/h,$0.00/h,$0.00,Prorated,0,6
+55,Standard,2,2,2,2,2,2,2
+50,Technical Communicators,T,336h,336h,20160000d,7,1,$0.00/h,$0.00/h,$0.00,Prorated,0,7
+55,Standard,2,2,2,2,2,2,2
+50,Deployment Team,D,96h,96h,5760000d,8,1,$0.00/h,$0.00/h,$0.00,Prorated,0,8
+55,Standard,2,2,2,2,2,2,2
+60,Name,WBS,Outline Level,Work,Baseline Work,Actual Work,Remaining Work,Work Variance,Duration,Remaining Duration,Duration Variance,Start,Finish,Early Start,Early Finish,Late Start,Late Finish,Baseline Start,Baseline Finish,Predecessors,Unique ID Successors,Fixed,Milestone,Critical,BCWS,BCWP,CV,ID,Constraint Type,Priority,Project,Unique ID,Outline Number,Summary
+61,1,2,3,20,21,22,23,24,40,43,45,50,51,52,53,54,55,56,57,70,75,80,81,82,85,86,88,90,91,95,97,98,99,120
+70,Software Development Plan,0,0,1532h,1532h,0h,1532h,1532h,95.75d,95.75d,95.75d,27/04/2023,07/09/2023,27/04/2023,07/09/2023,27/04/2023,07/09/2023,27/04/2023,07/09/2023,,,No,No,Yes,$0.00,$0.00,$0.00,0,As Soon As Possible,Medium,Software Development Plan,0,0,Yes
+70,Scope,1,1,28h,28h,0h,28h,28h,3.5d,3.5d,3.5d,27/04/2023,02/05/2023,27/04/2023,02/05/2023,27/04/2023,02/05/2023,27/04/2023,02/05/2023,,,No,No,Yes,$0.00,$0.00,$0.00,1,As Soon As Possible,Medium,Software Development Plan,1,1,Yes
+70,Determine project scope,1.1,2,4h,4h,0h,4h,4h,4h,0.5d,4h,27/04/2023,27/04/2023,27/04/2023,27/04/2023,27/04/2023,27/04/2023,27/04/2023,27/04/2023,,3FS,No,No,Yes,$0.00,$0.00,$0.00,2,As Soon As Possible,Medium,Software Development Plan,2,1.1,No
+75,1,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,27/04/2023,27/04/2023,0d,1
+76,,0,0,NA,NA
+70,Prueba de edición,1.2,2,8h,8h,0h,8h,8h,1d,1d,1d,27/04/2023,28/04/2023,27/04/2023,28/04/2023,27/04/2023,28/04/2023,27/04/2023,28/04/2023,2,4FS,No,No,Yes,$0.00,$0.00,$0.00,3,As Soon As Possible,Medium,Software Development Plan,3,1.2,No
+75,1,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,27/04/2023,28/04/2023,0d,1
+76,,0,0,NA,NA
+70,Define preliminary resources,1.3,2,8h,8h,0h,8h,8h,1d,1d,1d,28/04/2023,01/05/2023,28/04/2023,01/05/2023,28/04/2023,01/05/2023,28/04/2023,01/05/2023,3,5FS,No,No,Yes,$0.00,$0.00,$0.00,4,As Soon As Possible,Medium,Software Development Plan,4,1.3,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,28/04/2023,01/05/2023,0d,2
+76,,0,0,NA,NA
+70,Secure core resources,1.4,2,8h,8h,0h,8h,8h,1d,1d,1d,01/05/2023,02/05/2023,01/05/2023,02/05/2023,01/05/2023,02/05/2023,01/05/2023,02/05/2023,4,6FS,No,No,Yes,$0.00,$0.00,$0.00,5,As Soon As Possible,Medium,Software Development Plan,5,1.4,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,01/05/2023,02/05/2023,0d,2
+76,,0,0,NA,NA
+70,Scope complete,1.5,2,0h,0h,0h,0h,0h,0d,0d,0d,02/05/2023,02/05/2023,02/05/2023,02/05/2023,02/05/2023,02/05/2023,02/05/2023,02/05/2023,5,8FS,No,Yes,Yes,$0.00,$0.00,$0.00,6,As Soon As Possible,Medium,Software Development Plan,6,1.5,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,02/05/2023,02/05/2023,0d
+76,,0,0,NA,NA
+70,Analysis/Software Requirements,2,1,120h,120h,0h,120h,120h,14d,14d,14d,02/05/2023,22/05/2023,02/05/2023,22/05/2023,02/05/2023,22/05/2023,02/05/2023,22/05/2023,,,No,No,Yes,$0.00,$0.00,$0.00,7,As Soon As Possible,Medium,Software Development Plan,7,2,Yes
+70,Conduct needs analysis,2.1,2,40h,40h,0h,40h,40h,5d,5d,5d,02/05/2023,09/05/2023,02/05/2023,09/05/2023,02/05/2023,09/05/2023,02/05/2023,09/05/2023,6,9FS,No,No,Yes,$0.00,$0.00,$0.00,8,As Soon As Possible,Medium,Software Development Plan,8,2.1,No
+75,3,1,40h,0h,0h,0m,$0.00,$0.00,$0.00,02/05/2023,09/05/2023,0d,3
+76,,0,0,NA,NA
+70,Draft preliminary software specifications,2.2,2,24h,24h,0h,24h,24h,3d,3d,3d,09/05/2023,12/05/2023,09/05/2023,12/05/2023,09/05/2023,12/05/2023,09/05/2023,12/05/2023,8,10FS,No,No,Yes,$0.00,$0.00,$0.00,9,As Soon As Possible,Medium,Software Development Plan,9,2.2,No
+75,3,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,09/05/2023,12/05/2023,0d,3
+76,,0,0,NA,NA
+70,Develop preliminary budget,2.3,2,16h,16h,0h,16h,16h,2d,2d,2d,12/05/2023,16/05/2023,12/05/2023,16/05/2023,12/05/2023,16/05/2023,12/05/2023,16/05/2023,9,11FS,No,No,Yes,$0.00,$0.00,$0.00,10,As Soon As Possible,Medium,Software Development Plan,10,2.3,No
+75,2,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,12/05/2023,16/05/2023,0d,2
+76,,0,0,NA,NA
+70,Review software specifications/budget with team,2.4,2,8h,8h,0h,8h,8h,4h,0.5d,4h,16/05/2023,16/05/2023,16/05/2023,16/05/2023,16/05/2023,16/05/2023,16/05/2023,16/05/2023,10,12FS,No,No,Yes,$0.00,$0.00,$0.00,11,As Soon As Possible,Medium,Software Development Plan,11,2.4,No
+75,2,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,16/05/2023,16/05/2023,0d,2
+76,,0,0,NA,NA
+75,3,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,16/05/2023,16/05/2023,0d,3
+76,,0,0,NA,NA
+70,Incorporate feedback on software specifications,2.5,2,8h,8h,0h,8h,8h,1d,1d,1d,17/05/2023,17/05/2023,17/05/2023,17/05/2023,17/05/2023,17/05/2023,17/05/2023,17/05/2023,11,13FS,No,No,Yes,$0.00,$0.00,$0.00,12,As Soon As Possible,Medium,Software Development Plan,12,2.5,No
+75,3,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,17/05/2023,17/05/2023,0d,3
+76,,0,0,NA,NA
+70,Develop delivery timeline,2.6,2,8h,8h,0h,8h,8h,1d,1d,1d,18/05/2023,18/05/2023,18/05/2023,18/05/2023,18/05/2023,18/05/2023,18/05/2023,18/05/2023,12,14FS,No,No,Yes,$0.00,$0.00,$0.00,13,As Soon As Possible,Medium,Software Development Plan,13,2.6,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,18/05/2023,18/05/2023,0d,2
+76,,0,0,NA,NA
+70,"Obtain approvals to proceed (concept, timeline, budget)",2.7,2,8h,8h,0h,8h,8h,4h,0.5d,4h,19/05/2023,19/05/2023,19/05/2023,19/05/2023,19/05/2023,19/05/2023,19/05/2023,19/05/2023,13,15FS,No,No,Yes,$0.00,$0.00,$0.00,14,As Soon As Possible,Medium,Software Development Plan,14,2.7,No
+75,1,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,19/05/2023,19/05/2023,0d,1
+76,,0,0,NA,NA
+75,2,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,19/05/2023,19/05/2023,0d,2
+76,,0,0,NA,NA
+70,Secure required resources,2.8,2,8h,8h,0h,8h,8h,1d,1d,1d,19/05/2023,22/05/2023,19/05/2023,22/05/2023,19/05/2023,22/05/2023,19/05/2023,22/05/2023,14,16FS,No,No,Yes,$0.00,$0.00,$0.00,15,As Soon As Possible,Medium,Software Development Plan,15,2.8,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,19/05/2023,22/05/2023,0d,2
+76,,0,0,NA,NA
+70,Analysis complete,2.9,2,0h,0h,0h,0h,0h,0d,0d,0d,22/05/2023,22/05/2023,22/05/2023,22/05/2023,22/05/2023,22/05/2023,22/05/2023,22/05/2023,15,"18FS,68FS",No,Yes,Yes,$0.00,$0.00,$0.00,16,As Soon As Possible,Medium,Software Development Plan,16,2.9,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,22/05/2023,22/05/2023,0d
+76,,0,0,NA,NA
+70,Design,3,1,120h,120h,0h,120h,120h,14.5d,14.5d,14.5d,22/05/2023,09/06/2023,22/05/2023,09/06/2023,22/05/2023,12/06/2023,22/05/2023,09/06/2023,,,No,No,Yes,$0.00,$0.00,$0.00,17,As Soon As Possible,Medium,Software Development Plan,17,3,Yes
+70,Review preliminary software specifications,3.1,2,16h,16h,0h,16h,16h,2d,2d,2d,22/05/2023,24/05/2023,22/05/2023,24/05/2023,22/05/2023,24/05/2023,22/05/2023,24/05/2023,16,19FS,No,No,Yes,$0.00,$0.00,$0.00,18,As Soon As Possible,Medium,Software Development Plan,18,3.1,No
+75,3,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,22/05/2023,24/05/2023,0d,3
+76,,0,0,NA,NA
+70,Develop functional specifications,3.2,2,40h,40h,0h,40h,40h,5d,5d,5d,24/05/2023,31/05/2023,24/05/2023,31/05/2023,24/05/2023,31/05/2023,24/05/2023,31/05/2023,18,20FS,No,No,Yes,$0.00,$0.00,$0.00,19,As Soon As Possible,Medium,Software Development Plan,19,3.2,No
+75,3,1,40h,0h,0h,0m,$0.00,$0.00,$0.00,24/05/2023,31/05/2023,0d,3
+76,,0,0,NA,NA
+70,Develop prototype based on functional specifications,3.3,2,32h,32h,0h,32h,32h,4d,4d,4d,31/05/2023,06/06/2023,31/05/2023,06/06/2023,31/05/2023,06/06/2023,31/05/2023,06/06/2023,19,21FS,No,No,Yes,$0.00,$0.00,$0.00,20,As Soon As Possible,Medium,Software Development Plan,20,3.3,No
+75,3,1,32h,0h,0h,0m,$0.00,$0.00,$0.00,31/05/2023,06/06/2023,0d,3
+76,,0,0,NA,NA
+70,Review functional specifications,3.4,2,16h,16h,0h,16h,16h,2d,2d,2d,06/06/2023,08/06/2023,06/06/2023,08/06/2023,06/06/2023,08/06/2023,06/06/2023,08/06/2023,20,22FS,No,No,Yes,$0.00,$0.00,$0.00,21,As Soon As Possible,Medium,Software Development Plan,21,3.4,No
+75,1,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,06/06/2023,08/06/2023,0d,1
+76,,0,0,NA,NA
+70,Incorporate feedback into functional specifications,3.5,2,8h,8h,0h,8h,8h,1d,1d,1d,08/06/2023,09/06/2023,08/06/2023,09/06/2023,08/06/2023,09/06/2023,08/06/2023,09/06/2023,21,23FS,No,No,Yes,$0.00,$0.00,$0.00,22,As Soon As Possible,Medium,Software Development Plan,22,3.5,No
+75,1,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,08/06/2023,09/06/2023,0d,1
+76,,0,0,NA,NA
+70,Obtain approval to proceed,3.6,2,8h,8h,0h,8h,8h,4h,0.5d,4h,09/06/2023,09/06/2023,09/06/2023,09/06/2023,09/06/2023,09/06/2023,09/06/2023,09/06/2023,22,24FS,No,No,Yes,$0.00,$0.00,$0.00,23,As Soon As Possible,Medium,Software Development Plan,23,3.6,No
+75,1,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,09/06/2023,09/06/2023,0d,1
+76,,0,0,NA,NA
+75,2,1,4h,0h,0h,0m,$0.00,$0.00,$0.00,09/06/2023,09/06/2023,0d,2
+76,,0,0,NA,NA
+70,Design complete,3.7,2,0h,0h,0h,0h,0h,0d,0d,0d,09/06/2023,09/06/2023,09/06/2023,09/06/2023,12/06/2023,12/06/2023,09/06/2023,09/06/2023,23,"26FS,33FS,34FS,49FS,50FS,51FS,58FS,62FS",No,Yes,Yes,$0.00,$0.00,$0.00,24,As Soon As Possible,Medium,Software Development Plan,24,3.7,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,09/06/2023,09/06/2023,0d
+76,,0,0,NA,NA
+70,Development,4,1,264h,264h,0h,264h,264h,21.75d,21.75d,21.75d,12/06/2023,11/07/2023,12/06/2023,11/07/2023,12/06/2023,11/07/2023,12/06/2023,11/07/2023,,,No,No,Yes,$0.00,$0.00,$0.00,25,As Soon As Possible,Medium,Software Development Plan,25,4,Yes
+70,Review functional specifications,4.1,2,8h,8h,0h,8h,8h,1d,1d,1d,12/06/2023,12/06/2023,12/06/2023,12/06/2023,12/06/2023,12/06/2023,12/06/2023,12/06/2023,24,27FS,No,No,Yes,$0.00,$0.00,$0.00,26,As Soon As Possible,Medium,Software Development Plan,26,4.1,No
+75,4,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,12/06/2023,0d,4
+76,,0,0,NA,NA
+70,Identify modular/tiered design parameters,4.2,2,8h,8h,0h,8h,8h,1d,1d,1d,13/06/2023,13/06/2023,13/06/2023,13/06/2023,13/06/2023,13/06/2023,13/06/2023,13/06/2023,26,28FS,No,No,Yes,$0.00,$0.00,$0.00,27,As Soon As Possible,Medium,Software Development Plan,27,4.2,No
+75,4,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,13/06/2023,13/06/2023,0d,4
+76,,0,0,NA,NA
+70,Assign development staff,4.3,2,8h,8h,0h,8h,8h,1d,1d,1d,14/06/2023,14/06/2023,14/06/2023,14/06/2023,14/06/2023,14/06/2023,14/06/2023,14/06/2023,27,29FS,No,No,Yes,$0.00,$0.00,$0.00,28,As Soon As Possible,Medium,Software Development Plan,28,4.3,No
+75,4,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,14/06/2023,14/06/2023,0d,4
+76,,0,0,NA,NA
+70,Develop code,4.4,2,120h,120h,0h,120h,120h,15d,15d,15d,15/06/2023,05/07/2023,15/06/2023,05/07/2023,15/06/2023,05/07/2023,15/06/2023,05/07/2023,28,"30FS,59FS,63FS",No,No,Yes,$0.00,$0.00,$0.00,29,As Soon As Possible,Medium,Software Development Plan,29,4.4,No
+75,4,1,120h,0h,0h,0m,$0.00,$0.00,$0.00,15/06/2023,05/07/2023,0d,4
+76,,0,0,NA,NA
+70,Developer testing (primary debugging),4.5,2,120h,120h,0h,120h,120h,15d,15d,15d,20/06/2023,11/07/2023,20/06/2023,11/07/2023,20/06/2023,11/07/2023,20/06/2023,11/07/2023,29,31FS,No,No,Yes,$0.00,$0.00,$0.00,30,As Soon As Possible,Medium,Software Development Plan,30,4.5,No
+75,4,1,120h,0h,0h,0m,$0.00,$0.00,$0.00,20/06/2023,11/07/2023,0d,4
+76,,0,0,NA,NA
+70,Development complete,4.6,2,0h,0h,0h,0h,0h,0d,0d,0d,11/07/2023,11/07/2023,11/07/2023,11/07/2023,11/07/2023,11/07/2023,11/07/2023,11/07/2023,30,"36FS,37FS,52FS",No,Yes,Yes,$0.00,$0.00,$0.00,31,As Soon As Possible,Medium,Software Development Plan,31,4.6,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,11/07/2023,11/07/2023,0d
+76,,0,0,NA,NA
+70,Testing,5,1,280h,280h,0h,280h,280h,48.75d,48.75d,48.75d,12/06/2023,17/08/2023,12/06/2023,17/08/2023,05/07/2023,07/09/2023,12/06/2023,17/08/2023,,,No,No,Yes,$0.00,$0.00,$0.00,32,As Soon As Possible,Medium,Software Development Plan,32,5,Yes
+70,Develop unit test plans using product specifications,5.1,2,32h,32h,0h,32h,32h,4d,4d,4d,12/06/2023,15/06/2023,12/06/2023,15/06/2023,05/07/2023,11/07/2023,12/06/2023,15/06/2023,24,36FS,No,No,Yes,$0.00,$0.00,$0.00,33,As Soon As Possible,Medium,Software Development Plan,33,5.1,No
+75,5,1,32h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,15/06/2023,0d,5
+76,,0,0,NA,NA
+70,Develop integration test plans using product specifications,5.2,2,32h,32h,0h,32h,32h,4d,4d,4d,12/06/2023,15/06/2023,12/06/2023,15/06/2023,01/09/2023,07/09/2023,12/06/2023,15/06/2023,24,,No,No,Yes,$0.00,$0.00,$0.00,34,As Soon As Possible,Medium,Software Development Plan,34,5.2,No
+75,5,1,32h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,15/06/2023,0d,5
+76,,0,0,NA,NA
+70,Unit Testing,5.3,2,120h,120h,0h,120h,120h,15d,15d,15d,11/07/2023,01/08/2023,11/07/2023,01/08/2023,11/07/2023,01/08/2023,11/07/2023,01/08/2023,,,No,No,Yes,$0.00,$0.00,$0.00,35,As Soon As Possible,Medium,Software Development Plan,35,5.3,Yes
+70,Review modular code,5.3.1,3,40h,40h,0h,40h,40h,5d,5d,5d,11/07/2023,18/07/2023,11/07/2023,18/07/2023,11/07/2023,18/07/2023,11/07/2023,18/07/2023,"33,31",37FS,No,No,Yes,$0.00,$0.00,$0.00,36,As Soon As Possible,Medium,Software Development Plan,36,5.3.1,No
+75,5,1,40h,0h,0h,0m,$0.00,$0.00,$0.00,11/07/2023,18/07/2023,0d,5
+76,,0,0,NA,NA
+70,Test component modules to product specifications,5.3.2,3,16h,16h,0h,16h,16h,2d,2d,2d,18/07/2023,20/07/2023,18/07/2023,20/07/2023,18/07/2023,20/07/2023,18/07/2023,20/07/2023,"31,36",38FS,No,No,Yes,$0.00,$0.00,$0.00,37,As Soon As Possible,Medium,Software Development Plan,37,5.3.2,No
+75,5,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,18/07/2023,20/07/2023,0d,5
+76,,0,0,NA,NA
+70,Identify anomalies to product specifications,5.3.3,3,24h,24h,0h,24h,24h,3d,3d,3d,20/07/2023,25/07/2023,20/07/2023,25/07/2023,20/07/2023,25/07/2023,20/07/2023,25/07/2023,37,39FS,No,No,Yes,$0.00,$0.00,$0.00,38,As Soon As Possible,Medium,Software Development Plan,38,5.3.3,No
+75,5,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,20/07/2023,25/07/2023,0d,5
+76,,0,0,NA,NA
+70,Modify code,5.3.4,3,24h,24h,0h,24h,24h,3d,3d,3d,25/07/2023,28/07/2023,25/07/2023,28/07/2023,25/07/2023,28/07/2023,25/07/2023,28/07/2023,38,40FS,No,No,Yes,$0.00,$0.00,$0.00,39,As Soon As Possible,Medium,Software Development Plan,39,5.3.4,No
+75,5,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,25/07/2023,28/07/2023,0d,5
+76,,0,0,NA,NA
+70,Re-test modified code,5.3.5,3,16h,16h,0h,16h,16h,2d,2d,2d,28/07/2023,01/08/2023,28/07/2023,01/08/2023,28/07/2023,01/08/2023,28/07/2023,01/08/2023,39,41FS,No,No,Yes,$0.00,$0.00,$0.00,40,As Soon As Possible,Medium,Software Development Plan,40,5.3.5,No
+75,5,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,28/07/2023,01/08/2023,0d,5
+76,,0,0,NA,NA
+70,Unit testing complete,5.3.6,3,0h,0h,0h,0h,0h,0d,0d,0d,01/08/2023,01/08/2023,01/08/2023,01/08/2023,01/08/2023,01/08/2023,01/08/2023,01/08/2023,40,43FS,No,Yes,Yes,$0.00,$0.00,$0.00,41,As Soon As Possible,Medium,Software Development Plan,41,5.3.6,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,01/08/2023,01/08/2023,0d
+76,,0,0,NA,NA
+70,Integration Testing,5.4,2,96h,96h,0h,96h,96h,12d,12d,12d,01/08/2023,17/08/2023,01/08/2023,17/08/2023,01/08/2023,17/08/2023,01/08/2023,17/08/2023,,,No,No,Yes,$0.00,$0.00,$0.00,42,As Soon As Possible,Medium,Software Development Plan,42,5.4,Yes
+70,Test module integration,5.4.1,3,40h,40h,0h,40h,40h,5d,5d,5d,01/08/2023,08/08/2023,01/08/2023,08/08/2023,01/08/2023,08/08/2023,01/08/2023,08/08/2023,41,44FS,No,No,Yes,$0.00,$0.00,$0.00,43,As Soon As Possible,Medium,Software Development Plan,43,5.4.1,No
+75,5,1,40h,0h,0h,0m,$0.00,$0.00,$0.00,01/08/2023,08/08/2023,0d,5
+76,,0,0,NA,NA
+70,Identify anomalies to specifications,5.4.2,3,16h,16h,0h,16h,16h,2d,2d,2d,08/08/2023,10/08/2023,08/08/2023,10/08/2023,08/08/2023,10/08/2023,08/08/2023,10/08/2023,43,45FS,No,No,Yes,$0.00,$0.00,$0.00,44,As Soon As Possible,Medium,Software Development Plan,44,5.4.2,No
+75,5,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,08/08/2023,10/08/2023,0d,5
+76,,0,0,NA,NA
+70,Modify code,5.4.3,3,24h,24h,0h,24h,24h,3d,3d,3d,10/08/2023,15/08/2023,10/08/2023,15/08/2023,10/08/2023,15/08/2023,10/08/2023,15/08/2023,44,46FS,No,No,Yes,$0.00,$0.00,$0.00,45,As Soon As Possible,Medium,Software Development Plan,45,5.4.3,No
+75,5,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,10/08/2023,15/08/2023,0d,5
+76,,0,0,NA,NA
+70,Re-test modified code,5.4.4,3,16h,16h,0h,16h,16h,2d,2d,2d,15/08/2023,17/08/2023,15/08/2023,17/08/2023,15/08/2023,17/08/2023,15/08/2023,17/08/2023,45,47FS,No,No,Yes,$0.00,$0.00,$0.00,46,As Soon As Possible,Medium,Software Development Plan,46,5.4.4,No
+75,5,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,15/08/2023,17/08/2023,0d,5
+76,,0,0,NA,NA
+70,Integration testing complete,5.4.5,3,0h,0h,0h,0h,0h,0d,0d,0d,17/08/2023,17/08/2023,17/08/2023,17/08/2023,17/08/2023,17/08/2023,17/08/2023,17/08/2023,46,70FS,No,Yes,Yes,$0.00,$0.00,$0.00,47,As Soon As Possible,Medium,Software Development Plan,47,5.4.5,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,17/08/2023,17/08/2023,0d
+76,,0,0,NA,NA
+70,Training,6,1,256h,256h,0h,256h,256h,45.75d,45.75d,45.75d,12/06/2023,14/08/2023,12/06/2023,14/08/2023,11/07/2023,17/08/2023,12/06/2023,14/08/2023,,,No,No,Yes,$0.00,$0.00,$0.00,48,As Soon As Possible,Medium,Software Development Plan,48,6,Yes
+70,Develop training specifications for end users,6.1,2,24h,24h,0h,24h,24h,3d,3d,3d,12/06/2023,14/06/2023,12/06/2023,14/06/2023,11/07/2023,14/07/2023,12/06/2023,14/06/2023,24,52FS,No,No,Yes,$0.00,$0.00,$0.00,49,As Soon As Possible,Medium,Software Development Plan,49,6.1,No
+75,6,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,14/06/2023,0d,6
+76,,0,0,NA,NA
+70,Develop training specifications for helpdesk support staff,6.2,2,24h,24h,0h,24h,24h,3d,3d,3d,12/06/2023,14/06/2023,12/06/2023,14/06/2023,11/07/2023,14/07/2023,12/06/2023,14/06/2023,24,52FS,No,No,Yes,$0.00,$0.00,$0.00,50,As Soon As Possible,Medium,Software Development Plan,50,6.2,No
+75,6,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,14/06/2023,0d,6
+76,,0,0,NA,NA
+70,"Identify training delivery methodology (computer based training, classroom, etc.)",6.3,2,16h,16h,0h,16h,16h,2d,2d,2d,12/06/2023,13/06/2023,12/06/2023,13/06/2023,12/07/2023,14/07/2023,12/06/2023,13/06/2023,24,52FS,No,No,Yes,$0.00,$0.00,$0.00,51,As Soon As Possible,Medium,Software Development Plan,51,6.3,No
+75,6,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,13/06/2023,0d,6
+76,,0,0,NA,NA
+70,Develop training materials,6.4,2,120h,120h,0h,120h,120h,3w,15d,3w,11/07/2023,01/08/2023,11/07/2023,01/08/2023,14/07/2023,04/08/2023,11/07/2023,01/08/2023,"49,31,50,51",53FS,No,No,Yes,$0.00,$0.00,$0.00,52,As Soon As Possible,Medium,Software Development Plan,52,6.4,No
+75,6,1,120h,0h,0h,0m,$0.00,$0.00,$0.00,11/07/2023,01/08/2023,0d,6
+76,,0,0,NA,NA
+70,Conduct training usability study,6.5,2,32h,32h,0h,32h,32h,4d,4d,4d,01/08/2023,07/08/2023,01/08/2023,07/08/2023,04/08/2023,10/08/2023,01/08/2023,07/08/2023,52,54FS,No,No,Yes,$0.00,$0.00,$0.00,53,As Soon As Possible,Medium,Software Development Plan,53,6.5,No
+75,6,1,32h,0h,0h,0m,$0.00,$0.00,$0.00,01/08/2023,07/08/2023,0d,6
+76,,0,0,NA,NA
+70,Finalize training materials,6.6,2,24h,24h,0h,24h,24h,3d,3d,3d,07/08/2023,10/08/2023,07/08/2023,10/08/2023,10/08/2023,15/08/2023,07/08/2023,10/08/2023,53,55FS,No,No,Yes,$0.00,$0.00,$0.00,54,As Soon As Possible,Medium,Software Development Plan,54,6.6,No
+75,6,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,07/08/2023,10/08/2023,0d,6
+76,,0,0,NA,NA
+70,Develop training delivery mechanism,6.7,2,16h,16h,0h,16h,16h,2d,2d,2d,10/08/2023,14/08/2023,10/08/2023,14/08/2023,15/08/2023,17/08/2023,10/08/2023,14/08/2023,54,56FS,No,No,Yes,$0.00,$0.00,$0.00,55,As Soon As Possible,Medium,Software Development Plan,55,6.7,No
+75,6,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,10/08/2023,14/08/2023,0d,6
+76,,0,0,NA,NA
+70,Training materials complete,6.8,2,0h,0h,0h,0h,0h,0d,0d,0d,14/08/2023,14/08/2023,14/08/2023,14/08/2023,17/08/2023,17/08/2023,14/08/2023,14/08/2023,55,70FS,No,Yes,Yes,$0.00,$0.00,$0.00,56,As Soon As Possible,Medium,Software Development Plan,56,6.8,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,14/08/2023,14/08/2023,0d
+76,,0,0,NA,NA
+70,Documentation,7,1,336h,336h,0h,336h,336h,30.5d,30.5d,30.5d,12/06/2023,24/07/2023,12/06/2023,24/07/2023,19/07/2023,17/08/2023,12/06/2023,24/07/2023,,,No,No,Yes,$0.00,$0.00,$0.00,57,As Soon As Possible,Medium,Software Development Plan,57,7,Yes
+70,Develop Help specification,7.1,2,8h,8h,0h,8h,8h,1d,1d,1d,12/06/2023,12/06/2023,12/06/2023,12/06/2023,19/07/2023,20/07/2023,12/06/2023,12/06/2023,24,59FS,No,No,Yes,$0.00,$0.00,$0.00,58,As Soon As Possible,Medium,Software Development Plan,58,7.1,No
+75,7,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,12/06/2023,0d,7
+76,,0,0,NA,NA
+70,Develop Help system,7.2,2,120h,120h,0h,120h,120h,3w,15d,3w,26/06/2023,17/07/2023,26/06/2023,17/07/2023,20/07/2023,10/08/2023,26/06/2023,17/07/2023,"58,29",60FS,No,No,Yes,$0.00,$0.00,$0.00,59,As Soon As Possible,Medium,Software Development Plan,59,7.2,No
+75,7,1,120h,0h,0h,0m,$0.00,$0.00,$0.00,26/06/2023,17/07/2023,0d,7
+76,,0,0,NA,NA
+70,Review Help documentation,7.3,2,24h,24h,0h,24h,24h,3d,3d,3d,17/07/2023,20/07/2023,17/07/2023,20/07/2023,10/08/2023,15/08/2023,17/07/2023,20/07/2023,59,61FS,No,No,Yes,$0.00,$0.00,$0.00,60,As Soon As Possible,Medium,Software Development Plan,60,7.3,No
+75,7,1,24h,0h,0h,0m,$0.00,$0.00,$0.00,17/07/2023,20/07/2023,0d,7
+76,,0,0,NA,NA
+70,Incorporate Help documentation feedback,7.4,2,16h,16h,0h,16h,16h,2d,2d,2d,20/07/2023,24/07/2023,20/07/2023,24/07/2023,15/08/2023,17/08/2023,20/07/2023,24/07/2023,60,66FS,No,No,Yes,$0.00,$0.00,$0.00,61,As Soon As Possible,Medium,Software Development Plan,61,7.4,No
+75,7,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,20/07/2023,24/07/2023,0d,7
+76,,0,0,NA,NA
+70,Develop user manuals specifications,7.5,2,16h,16h,0h,16h,16h,2d,2d,2d,12/06/2023,13/06/2023,12/06/2023,13/06/2023,19/07/2023,21/07/2023,12/06/2023,13/06/2023,24,63FS,No,No,Yes,$0.00,$0.00,$0.00,62,As Soon As Possible,Medium,Software Development Plan,62,7.5,No
+75,7,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,12/06/2023,13/06/2023,0d,7
+76,,0,0,NA,NA
+70,Develop user manuals,7.6,2,120h,120h,0h,120h,120h,3w,15d,3w,26/06/2023,17/07/2023,26/06/2023,17/07/2023,21/07/2023,11/08/2023,26/06/2023,17/07/2023,"62,29",64FS,No,No,Yes,$0.00,$0.00,$0.00,63,As Soon As Possible,Medium,Software Development Plan,63,7.6,No
+75,7,1,120h,0h,0h,0m,$0.00,$0.00,$0.00,26/06/2023,17/07/2023,0d,7
+76,,0,0,NA,NA
+70,Review all user documentation,7.7,2,16h,16h,0h,16h,16h,2d,2d,2d,17/07/2023,19/07/2023,17/07/2023,19/07/2023,11/08/2023,15/08/2023,17/07/2023,19/07/2023,63,65FS,No,No,Yes,$0.00,$0.00,$0.00,64,As Soon As Possible,Medium,Software Development Plan,64,7.7,No
+75,7,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,17/07/2023,19/07/2023,0d,7
+76,,0,0,NA,NA
+70,Incorporate user documentation feedback,7.8,2,16h,16h,0h,16h,16h,2d,2d,2d,19/07/2023,21/07/2023,19/07/2023,21/07/2023,15/08/2023,17/08/2023,19/07/2023,21/07/2023,64,66FS,No,No,Yes,$0.00,$0.00,$0.00,65,As Soon As Possible,Medium,Software Development Plan,65,7.8,No
+75,7,1,16h,0h,0h,0m,$0.00,$0.00,$0.00,19/07/2023,21/07/2023,0d,7
+76,,0,0,NA,NA
+70,Documentation complete,7.9,2,0h,0h,0h,0h,0h,0d,0d,0d,24/07/2023,24/07/2023,24/07/2023,24/07/2023,17/08/2023,17/08/2023,24/07/2023,24/07/2023,"65,61",70FS,No,Yes,Yes,$0.00,$0.00,$0.00,66,As Soon As Possible,Medium,Software Development Plan,66,7.9,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,24/07/2023,24/07/2023,0d
+76,,0,0,NA,NA
+70,Pilot,8,1,64h,64h,0h,64h,64h,70.25d,70.25d,70.25d,22/05/2023,28/08/2023,22/05/2023,28/08/2023,15/08/2023,28/08/2023,22/05/2023,28/08/2023,,,No,No,Yes,$0.00,$0.00,$0.00,67,As Soon As Possible,Medium,Software Development Plan,67,8,Yes
+70,Identify test group,8.1,2,8h,8h,0h,8h,8h,1d,1d,1d,22/05/2023,23/05/2023,22/05/2023,23/05/2023,15/08/2023,16/08/2023,22/05/2023,23/05/2023,16,69FS,No,No,Yes,$0.00,$0.00,$0.00,68,As Soon As Possible,Medium,Software Development Plan,68,8.1,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,22/05/2023,23/05/2023,0d,2
+76,,0,0,NA,NA
+70,Develop software delivery mechanism,8.2,2,0h,0h,0h,0h,0h,1d,1d,1d,23/05/2023,24/05/2023,23/05/2023,24/05/2023,16/08/2023,17/08/2023,23/05/2023,24/05/2023,68,70FS,No,No,Yes,$0.00,$0.00,$0.00,69,As Soon As Possible,Medium,Software Development Plan,69,8.2,No
+75,-65535,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,23/05/2023,24/05/2023,0d
+76,,0,0,NA,NA
+70,Install/deploy software,8.3,2,8h,8h,0h,8h,8h,1d,1d,1d,17/08/2023,18/08/2023,17/08/2023,18/08/2023,17/08/2023,18/08/2023,17/08/2023,18/08/2023,"47,69,66,56",71FS,No,No,Yes,$0.00,$0.00,$0.00,70,As Soon As Possible,Medium,Software Development Plan,70,8.3,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,17/08/2023,18/08/2023,0d,8
+76,,0,0,NA,NA
+70,Obtain user feedback,8.4,2,40h,40h,0h,40h,40h,1w,5d,1w,18/08/2023,25/08/2023,18/08/2023,25/08/2023,18/08/2023,25/08/2023,18/08/2023,25/08/2023,70,72FS,No,No,Yes,$0.00,$0.00,$0.00,71,As Soon As Possible,Medium,Software Development Plan,71,8.4,No
+75,8,1,40h,0h,0h,0m,$0.00,$0.00,$0.00,18/08/2023,25/08/2023,0d,8
+76,,0,0,NA,NA
+70,Evaluate testing information,8.5,2,8h,8h,0h,8h,8h,1d,1d,1d,25/08/2023,28/08/2023,25/08/2023,28/08/2023,25/08/2023,28/08/2023,25/08/2023,28/08/2023,71,73FS,No,No,Yes,$0.00,$0.00,$0.00,72,As Soon As Possible,Medium,Software Development Plan,72,8.5,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,25/08/2023,28/08/2023,0d,8
+76,,0,0,NA,NA
+70,Pilot complete,8.6,2,0h,0h,0h,0h,0h,0d,0d,0d,28/08/2023,28/08/2023,28/08/2023,28/08/2023,28/08/2023,28/08/2023,28/08/2023,28/08/2023,72,75FS,No,Yes,Yes,$0.00,$0.00,$0.00,73,As Soon As Possible,Medium,Software Development Plan,73,8.6,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,28/08/2023,28/08/2023,0d
+76,,0,0,NA,NA
+70,Deployment,9,1,40h,40h,0h,40h,40h,5d,5d,5d,28/08/2023,04/09/2023,28/08/2023,04/09/2023,28/08/2023,04/09/2023,28/08/2023,04/09/2023,,,No,No,Yes,$0.00,$0.00,$0.00,74,As Soon As Possible,Medium,Software Development Plan,74,9,Yes
+70,Determine final deployment strategy,9.1,2,8h,8h,0h,8h,8h,1d,1d,1d,28/08/2023,29/08/2023,28/08/2023,29/08/2023,28/08/2023,29/08/2023,28/08/2023,29/08/2023,73,76FS,No,No,Yes,$0.00,$0.00,$0.00,75,As Soon As Possible,Medium,Software Development Plan,75,9.1,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,28/08/2023,29/08/2023,0d,8
+76,,0,0,NA,NA
+70,Develop deployment methodology,9.2,2,8h,8h,0h,8h,8h,1d,1d,1d,29/08/2023,30/08/2023,29/08/2023,30/08/2023,29/08/2023,30/08/2023,29/08/2023,30/08/2023,75,77FS,No,No,Yes,$0.00,$0.00,$0.00,76,As Soon As Possible,Medium,Software Development Plan,76,9.2,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,29/08/2023,30/08/2023,0d,8
+76,,0,0,NA,NA
+70,Secure deployment resources,9.3,2,8h,8h,0h,8h,8h,1d,1d,1d,30/08/2023,31/08/2023,30/08/2023,31/08/2023,30/08/2023,31/08/2023,30/08/2023,31/08/2023,76,78FS,No,No,Yes,$0.00,$0.00,$0.00,77,As Soon As Possible,Medium,Software Development Plan,77,9.3,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,30/08/2023,31/08/2023,0d,8
+76,,0,0,NA,NA
+70,Train support staff,9.4,2,8h,8h,0h,8h,8h,1d,1d,1d,31/08/2023,01/09/2023,31/08/2023,01/09/2023,31/08/2023,01/09/2023,31/08/2023,01/09/2023,77,79FS,No,No,Yes,$0.00,$0.00,$0.00,78,As Soon As Possible,Medium,Software Development Plan,78,9.4,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,31/08/2023,01/09/2023,0d,8
+76,,0,0,NA,NA
+70,Deploy software,9.5,2,8h,8h,0h,8h,8h,1d,1d,1d,01/09/2023,04/09/2023,01/09/2023,04/09/2023,01/09/2023,04/09/2023,01/09/2023,04/09/2023,78,80FS,No,No,Yes,$0.00,$0.00,$0.00,79,As Soon As Possible,Medium,Software Development Plan,79,9.5,No
+75,8,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,01/09/2023,04/09/2023,0d,8
+76,,0,0,NA,NA
+70,Deployment complete,9.6,2,0h,0h,0h,0h,0h,0d,0d,0d,04/09/2023,04/09/2023,04/09/2023,04/09/2023,04/09/2023,04/09/2023,04/09/2023,04/09/2023,79,82FS,No,Yes,Yes,$0.00,$0.00,$0.00,80,As Soon As Possible,Medium,Software Development Plan,80,9.6,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,04/09/2023,04/09/2023,0d
+76,,0,0,NA,NA
+70,Post Implementation Review,10,1,24h,24h,0h,24h,24h,3d,3d,3d,04/09/2023,07/09/2023,04/09/2023,07/09/2023,04/09/2023,07/09/2023,04/09/2023,07/09/2023,,,No,No,Yes,$0.00,$0.00,$0.00,81,As Soon As Possible,Medium,Software Development Plan,81,10,Yes
+70,Document lessons learned,10.1,2,8h,8h,0h,8h,8h,1d,1d,1d,04/09/2023,05/09/2023,04/09/2023,05/09/2023,04/09/2023,05/09/2023,04/09/2023,05/09/2023,80,83FS,No,No,Yes,$0.00,$0.00,$0.00,82,As Soon As Possible,Medium,Software Development Plan,82,10.1,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,04/09/2023,05/09/2023,0d,2
+76,,0,0,NA,NA
+70,Distribute to team members,10.2,2,8h,8h,0h,8h,8h,1d,1d,1d,05/09/2023,06/09/2023,05/09/2023,06/09/2023,05/09/2023,06/09/2023,05/09/2023,06/09/2023,82,84FS,No,No,Yes,$0.00,$0.00,$0.00,83,As Soon As Possible,Medium,Software Development Plan,83,10.2,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,05/09/2023,06/09/2023,0d,2
+76,,0,0,NA,NA
+70,Create software maintenance team,10.3,2,8h,8h,0h,8h,8h,1d,1d,1d,06/09/2023,07/09/2023,06/09/2023,07/09/2023,06/09/2023,07/09/2023,06/09/2023,07/09/2023,83,85FS,No,No,Yes,$0.00,$0.00,$0.00,84,As Soon As Possible,Medium,Software Development Plan,84,10.3,No
+75,2,1,8h,0h,0h,0m,$0.00,$0.00,$0.00,06/09/2023,07/09/2023,0d,2
+76,,0,0,NA,NA
+70,Post implementation review complete,10.4,2,0h,0h,0h,0h,0h,0d,0d,0d,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,84,86FS,No,Yes,Yes,$0.00,$0.00,$0.00,85,As Soon As Possible,Medium,Software Development Plan,85,10.4,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,07/09/2023,07/09/2023,0d
+76,,0,0,NA,NA
+70,Software development template complete,11,1,0h,0h,0h,0h,0h,0d,0d,0d,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,07/09/2023,85,,No,Yes,Yes,$0.00,$0.00,$0.00,86,As Soon As Possible,Medium,Software Development Plan,86,11,No
+75,-65535,1,0h,0h,0h,0m,$0.00,$0.00,$0.00,07/09/2023,07/09/2023,0d
+76,,0,0,NA,NA
