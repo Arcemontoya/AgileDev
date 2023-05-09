@@ -3,7 +3,7 @@ package ScrumProject;
 
 import java.util.ArrayList;
 
-public class Sprint {
+public class SprintBacklog {
 
     private ArrayList<ProductBacklog> productBacklogs;
 
